@@ -1,0 +1,26 @@
+LAB ASSIGNMENT 2
+SCHOOL OF ENGINEERING AND TECHNOLOGY
+COURSE CODE AND NAME : OPERATING SYSTEM LAB ENCA252
+PROGRAM NAME : BSC(DATA SCIENCE)
+TITLE : Round Robin Scheduling.
+OBJECTIVE:Round Robin scheduling aims to allocate CPU time equally to each process using a fixed time quantum.
+
+Example Data:
+ 
+
+
+OUTPUT:
+ 
+
+ 
+ 
+Why this example is good
+Shows fair CPU sharing
+Includes both short & long processes
+Easy to understand and calculate
+Conclusion :
+Round Robin scheduling gives equal CPU time to all processes and prevents starvation.
+
+
+
+
